@@ -164,7 +164,7 @@ td {
 
 @media (min-width: 48rem) {
     article {
-        max-width: 36rem;
+        max-width: 45rem;
         margin: 7.75rem auto;
         border-radius: 1.5rem;
         padding: 2.5rem 2.5rem .5rem;
@@ -195,23 +195,5 @@ td {
         display: block;
         border-radius: .6rem;
         object-fit: fill;
-    }
-}
-
-@media (min-width: 62rem) {
-    article {
-        max-width: 48rem;
-    }
-}
-
-@media (min-width: 75rem) {
-    article {
-        max-width: 62rem;
-    }
-}
-
-@media (min-width: 87.5rem) {
-    article {
-        max-width: 45rem;
     }
 }
